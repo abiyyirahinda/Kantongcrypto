@@ -1,0 +1,39 @@
+{
+  "name": "Kantongcrypto",
+  "symbol": "KCR",
+  "description": "Scan QRIS, pay with CRYPTO",
+  "image": "https://cyan-blank-rattlesnake-429.mypinata.cloud/ipfs/bafkreifjdy4mnkwyotvjq2r5qpzvdliighrjy7b5pl326fzote3w6pk7ma",
+  "animation_url": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
+  "attributes": [
+    {
+      "trait_type": "Function",
+      "value": "QRIS Payment"
+    },
+    {
+      "trait_type": "Currency",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Use Case",
+      "value": "Retail"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "category": "audio",
+    "files": [
+      {
+        "uri": "https://cyan-blank-rattlesnake-429.mypinata.cloud/ipfs/bafkreifjdy4mnkwyotvjq2r5qpzvdliighrjy7b5pl326fzote3w6pk7ma",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
+        "type": "audio/mpeg"
+      }
+    ]
+  },
+  "seller_fee_basis_points": 0
+}
